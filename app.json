@@ -32,10 +32,15 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-secure-store"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "supabaseUrl": "https://wjtgopcoqgqsfjvbkdrt.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndqdGdvcGNvcWdxc2ZqdmJrZHJ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY5MzI1NjIsImV4cCI6MjA1MjUwODU2Mn0.UK-xud6g0gZXtO-Awz-N4W7EbclcSnloYXb38fCeVd0"
     }
   }
 }
